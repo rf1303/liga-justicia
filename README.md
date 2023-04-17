@@ -10,3 +10,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## prueba warning pull
 
 ## Nuevos cambios desde github 14-04
+## nuevo cambio desde repo local
